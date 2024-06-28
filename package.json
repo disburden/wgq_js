@@ -1,0 +1,19 @@
+{
+  "name": "wgq_js",
+  "version": "1.0.1",
+  "description": "我自己常用的js方法",
+  "main": "wgq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/disburden/wgq_js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "disburden",
+  "license": "ISC",
+  "type": "module"
+}
